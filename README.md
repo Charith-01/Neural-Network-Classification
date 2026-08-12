@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-This project was developed as part of a Data Science internship task focused on building a neural network for classification.
-
 The objective was to predict a candidate's recruitment status using structured candidate information such as position, experience, technical score, and interview score.
 
 The project also focused on:
